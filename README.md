@@ -81,12 +81,6 @@ test_ds  = datasets.ImageFolder("images/test",  transform=transform)
 
 ---
 
-## 📝 License
-
-This dataset is released under the **CC BY-NC 4.0** license. See [LICENSE.txt](LICENSE.txt) for details.
-
----
-
 ## 📬 Contact
 
 For questions or contributions, please open an issue or contact the author at visionlangai@gmail.com
