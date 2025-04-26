@@ -81,15 +81,6 @@ test_ds  = datasets.ImageFolder("images/test",  transform=transform)
 
 ---
 
-## 📑 Citation
-
-If you use this dataset, please cite:
-
-> Anam Naz, “Cultural Design Image Classification Dataset,” GitHub repository, 2025.  
-> DOI: 10.5281/zenodo.xxxxxxx
-
----
-
 ## 📝 License
 
 This dataset is released under the **CC BY-NC 4.0** license. See [LICENSE.txt](LICENSE.txt) for details.
@@ -98,4 +89,4 @@ This dataset is released under the **CC BY-NC 4.0** license. See [LICENSE.txt](L
 
 ## 📬 Contact
 
-For questions or contributions, please open an issue or contact the author at anam.naz@example.com.
+For questions or contributions, please open an issue or contact the author at visionlangai@gmail.com
